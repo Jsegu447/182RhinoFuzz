@@ -1,0 +1,110 @@
+Saving new input (at run 1): input #0 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000000 random +count +cov
+Saving new input (at run 2): input #1 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000001 src:000000,havoc:5 +count +cov
+Saving new input (at run 5): input #2 of size 12; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000002 src:000000,havoc:18 +count
+Saving new input (at run 11): input #3 of size 28; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000003 src:000000,havoc:11 +count
+Saving new input (at run 20): input #4 of size 84; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000004 src:000000,havoc:7 +count
+Saving new input (at run 23): input #5 of size 16; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000005 src:000000,havoc:6 +count
+Saving new input (at run 26): input #6 of size 24; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000006 src:000000,havoc:1 +count
+Saving new input (at run 32): input #7 of size 68; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000007 src:000000,havoc:12 +count
+Saving new input (at run 37): input #8 of size 132; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000008 src:000000,havoc:1 +count
+Saving new input (at run 46): input #9 of size 48; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000009 src:000000,havoc:18 +count
+Saving new input (at run 47): input #10 of size 160; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000010 src:000000,havoc:6 +count
+Saving new input (at run 53): input #11 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000011 src:000000,havoc:9 +count +cov
+Saving new input (at run 57): input #12 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000012 src:000000,havoc:4 +count +cov
+Saving new input (at run 98): input #13 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000013 src:000000,havoc:4 +count +cov
+Saving new input (at run 175): input #14 of size 8; reason = +count +cov +valid
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000014 src:000000,havoc:15 +count +cov +valid
+Saving new input (at run 259): input #15 of size 12; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000015 src:000000,havoc:16 +count
+Saving new input (at run 371): input #16 of size 8; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000016 src:000002,havoc:4 +count
+Saving new input (at run 401): input #17 of size 12; reason = +count +cov +valid
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000017 src:000004,havoc:14 +count +cov +valid
+Saving new input (at run 426): input #18 of size 204; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000018 src:000006,havoc:8 +count
+Saving new input (at run 534): input #19 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000019 src:000011,havoc:2 +count +cov
+Saving new input (at run 579): input #20 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000020 src:000011,havoc:12 +count +cov
+Saving new input (at run 682): input #21 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000021 src:000011,havoc:8 +count +cov
+Saving new input (at run 744): input #22 of size 84; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000022 src:000012,havoc:2 +count
+Saving new input (at run 751): input #23 of size 16; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000023 src:000012,havoc:19 +count
+Saving new input (at run 783): input #24 of size 224; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000024 src:000013,havoc:8 +count
+Saving new input (at run 818): input #25 of size 12; reason = +count +cov +valid
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000025 src:000013,havoc:8 +count +cov +valid
+Saving new input (at run 944): input #26 of size 84; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000026 src:000013,havoc:6 +count
+Saving new input (at run 1058): input #27 of size 240; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000027 src:000014,havoc:14 +count
+Saving new input (at run 1780): input #28 of size 12; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000028 src:000017,havoc:1 +count
+Saving new input (at run 2166): input #29 of size 248; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000029 src:000017,havoc:20 +count
+Saving new input (at run 2340): input #30 of size 12; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000030 src:000017,havoc:1 +count
+Saving new input (at run 2558): input #31 of size 12; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000031 src:000017,havoc:1 +count
+Saving new input (at run 2702): input #32 of size 84; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000032 src:000019,havoc:27 +count
+Saving new input (at run 2735): input #33 of size 84; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000033 src:000019,havoc:4 +count
+Saving new input (at run 3040): input #34 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000034 src:000020,havoc:11 +count +cov
+Saving new input (at run 3409): input #35 of size 84; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000035 src:000021,havoc:5 +count
+Saving new input (at run 3612): input #36 of size 248; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000036 src:000025,havoc:24 +count
+Saving new input (at run 4805): input #37 of size 112; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000037 src:000034,havoc:11 +count
+
+# Cycle 1 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 157 branches
+Input 11 is responsible for 1 branches
+Input 13 is responsible for 3 branches
+Input 14 is responsible for 2572 branches
+Input 17 is responsible for 831 branches
+Input 19 is responsible for 4 branches
+Input 20 is responsible for 1 branches
+Input 21 is responsible for 2 branches
+Input 25 is responsible for 83 branches
+Input 34 is responsible for 1 branches
+Total 3655 branches covered
+
+
+
+
+Saving new input (at run 5386): input #38 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000038 src:000011,havoc:7 +count +cov
+Saving new input (at run 6224): input #39 of size 12; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000039 src:000014,havoc:4 +count +cov
+Saving new input (at run 7292): input #40 of size 296; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000040 src:000017,havoc:10 +count
+Saving new input (at run 7812): input #41 of size 84; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000041 src:000020,havoc:4 +count +cov
+Saving new input (at run 7839): input #42 of size 84; reason = +count
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000042 src:000020,havoc:6 +count
+Saving new input (at run 8897): input #43 of size 24; reason = +count +cov
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000043 src:000025,havoc:7 +count +cov
+Saving new input (at run 9114): input #44 of size 16; reason = +count +cov +valid
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000044 src:000025,havoc:2 +count +cov +valid
+Saving new input (at run 9824): input #45 of size 12; reason = +count +cov +valid
+Saved - /Users/jonassegundo/Desktop/COMPTEST/target/fuzz-results/examples.CompilerTest/testWithString/corpus/id_000045 src:000039,havoc:2 +count +cov +valid
