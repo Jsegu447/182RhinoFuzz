@@ -1,0 +1,240 @@
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "i_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000000 random +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "v_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000001 random +crash
+Saving new input (at run 3): input #0 of size 5; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000000 random +count +cov
+Found crash: class org.mozilla.javascript.JavaScriptException - 񰇩󒞏ġ𰲟𢷩񘛉򃹶򒓭򧙂󞺶򚖱󳿇碽񝁀񄄺񖴨𔚀󤹍񹭝󸘉
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000002 src:000000,havoc:4 +crash
+Saving new input (at run 6): input #1 of size 443; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000001 src:000000,havoc:5 +count +cov
+Saving new input (at run 7): input #2 of size 9; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000002 src:000000,havoc:10 +count +cov +valid
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "o_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000003 src:000000,havoc:4 +crash
+Saving new input (at run 12): input #3 of size 6; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000003 src:000000,havoc:3 +count +cov
+Saving new input (at run 13): input #4 of size 27; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000004 src:000000,havoc:8 +count +cov +valid
+Saving new input (at run 15): input #5 of size 5; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000005 src:000000,havoc:12 +count +cov
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "g_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000004 src:000000,havoc:1 +crash
+Saving new input (at run 18): input #6 of size 17; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000006 src:000000,havoc:16 +count
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "k_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000005 src:000000,havoc:4 +crash
+Found crash: class org.mozilla.javascript.JavaScriptException - undefined
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000006 src:000000,havoc:3 +crash
+Saving new input (at run 22): input #7 of size 5; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000007 src:000000,havoc:13 +count +cov +valid
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "q_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000007 src:000000,havoc:6 +crash
+Found crash: class org.mozilla.javascript.JavaScriptException - ᗋ穴
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000008 src:000000,havoc:8 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "r_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000009 src:000000,havoc:4 +crash
+Saving new input (at run 31): input #8 of size 28; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000008 src:000000,havoc:5 +count +cov +valid
+Saving new input (at run 34): input #9 of size 10140; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000009 src:000000,havoc:3 +count +cov
+Saving new input (at run 35): input #10 of size 19; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000010 src:000000,havoc:1 +count +cov +valid
+Saving new input (at run 36): input #11 of size 15; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000011 src:000000,havoc:14 +count +cov
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "l_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000010 src:000000,havoc:2 +crash
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000011 src:000000,havoc:3 +crash
+Saving new input (at run 50): input #12 of size 170; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000012 src:000000,havoc:8 +count +cov
+Saving new input (at run 52): input #13 of size 9; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000013 src:000000,havoc:4 +count +cov +valid
+Saving new input (at run 54): input #14 of size 18; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000014 src:000000,havoc:3 +count +cov +valid
+Saving new input (at run 56): input #15 of size 63; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000015 src:000000,havoc:10 +count +cov
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "y_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000012 src:000000,havoc:6 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "p_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000013 src:000000,havoc:6 +crash
+Found crash: class org.mozilla.javascript.EcmaError - TypeError: Cannot read property "o_1" from undefined
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000014 src:000000,havoc:34 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "h_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000015 src:000000,havoc:5 +crash
+Saving new input (at run 69): input #16 of size 4297; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000016 src:000000,havoc:20 +count +cov
+Saving new input (at run 70): input #17 of size 55; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000017 src:000000,havoc:1 +count +cov +valid
+Saving new input (at run 72): input #18 of size 16; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000018 src:000000,havoc:3 +count +cov +valid
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "d_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000016 src:000000,havoc:1 +crash
+Saving new input (at run 83): input #19 of size 15; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000019 src:000000,havoc:1 +count +valid
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "g_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000017 src:000000,havoc:9 +crash
+Saving new input (at run 89): input #20 of size 53; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000020 src:000000,havoc:2 +count +cov +valid
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "h_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000018 src:000000,havoc:1 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "s_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000019 src:000000,havoc:7 +crash
+Saving new input (at run 100): input #21 of size 4748; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000021 src:000000,havoc:1 +count
+Saving new input (at run 101): input #22 of size 9; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000022 src:000000,havoc:5 +count +cov +valid
+Saving new input (at run 102): input #23 of size 31; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000023 src:000000,havoc:1 +count
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "e_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000020 src:000000,havoc:7 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "b_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000021 src:000000,havoc:3 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "j_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000022 src:000000,havoc:12 +crash
+Saving new input (at run 108): input #24 of size 9; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000024 src:000000,havoc:21 +count +valid
+Saving new input (at run 109): input #25 of size 131; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000025 src:000000,havoc:9 +count +cov
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "x_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000023 src:000000,havoc:20 +crash
+Saving new input (at run 112): input #26 of size 63; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000026 src:000000,havoc:7 +count +valid
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "l_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000024 src:000000,havoc:6 +crash
+Saving new input (at run 116): input #27 of size 159; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000027 src:000000,havoc:16 +count
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "u_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000025 src:000000,havoc:3 +crash
+Saving new input (at run 126): input #28 of size 443; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000028 src:000001,havoc:2 +count
+Saving new input (at run 127): input #29 of size 434; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000029 src:000001,havoc:3 +count
+Saving new input (at run 128): input #30 of size 3069; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000030 src:000001,havoc:19 +count
+Saving new input (at run 129): input #31 of size 51; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000031 src:000001,havoc:13 +count
+Saving new input (at run 130): input #32 of size 61; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000032 src:000001,havoc:16 +count
+Saving new input (at run 132): input #33 of size 394; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000033 src:000001,havoc:9 +count
+Saving new input (at run 134): input #34 of size 805; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000034 src:000001,havoc:5 +count
+Saving new input (at run 135): input #35 of size 54; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000035 src:000001,havoc:6 +count
+Saving new input (at run 136): input #36 of size 388; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000036 src:000001,havoc:6 +count
+Saving new input (at run 137): input #37 of size 45; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000037 src:000001,havoc:16 +count
+Saving new input (at run 140): input #38 of size 703; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000038 src:000001,havoc:1 +count
+Saving new input (at run 145): input #39 of size 5789; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000039 src:000001,havoc:4 +count
+Saving new input (at run 147): input #40 of size 141; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000040 src:000001,havoc:3 +count
+Saving new input (at run 149): input #41 of size 5425; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000041 src:000001,havoc:5 +count
+Saving new input (at run 152): input #42 of size 295; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000042 src:000001,havoc:1 +count
+Saving new input (at run 154): input #43 of size 2337; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000043 src:000001,havoc:7 +count
+Saving new input (at run 155): input #44 of size 8802; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000044 src:000001,havoc:3 +count
+Saving new input (at run 158): input #45 of size 1889; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000045 src:000001,havoc:5 +count
+Saving new input (at run 161): input #46 of size 7368; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000046 src:000001,havoc:6 +count
+Saving new input (at run 163): input #47 of size 590; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000047 src:000001,havoc:3 +count
+Saving new input (at run 164): input #48 of size 831; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000048 src:000001,havoc:2 +count
+Saving new input (at run 172): input #49 of size 9662; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000049 src:000001,havoc:1 +count
+Saving new input (at run 177): input #50 of size 6868; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000050 src:000001,havoc:13 +count
+Saving new input (at run 179): input #51 of size 779; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000051 src:000001,havoc:10 +count
+Saving new input (at run 180): input #52 of size 8216; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000052 src:000001,havoc:3 +count
+Saving new input (at run 183): input #53 of size 1711; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000053 src:000001,havoc:7 +count
+Saving new input (at run 194): input #54 of size 3987; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000054 src:000001,havoc:4 +count
+Saving new input (at run 203): input #55 of size 2260; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000055 src:000001,havoc:7 +count
+Saving new input (at run 218): input #56 of size 9740; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000056 src:000001,havoc:6 +count
+Saving new input (at run 225): input #57 of size 9; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000057 src:000001,havoc:17 +count +valid
+Saving new input (at run 232): input #58 of size 8836; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000058 src:000001,havoc:4 +count
+Saving new input (at run 234): input #59 of size 1012; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000059 src:000001,havoc:6 +count
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "o_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000026 src:000001,havoc:10 +crash
+Saving new input (at run 271): input #60 of size 115; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000060 src:000002,havoc:5 +count +cov +valid
+Saving new input (at run 274): input #61 of size 33; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000061 src:000002,havoc:7 +count
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "l_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000027 src:000002,havoc:14 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "v_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000028 src:000002,havoc:12 +crash
+Saving new input (at run 282): input #62 of size 52; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000062 src:000002,havoc:1 +count
+Found crash: class org.mozilla.javascript.EcmaError - TypeError: 736 is not a function, it is number.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000029 src:000002,havoc:6 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "c_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000030 src:000002,havoc:36 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "d_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000031 src:000002,havoc:4 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "y_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000032 src:000002,havoc:2 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "h_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000033 src:000002,havoc:4 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "i_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000034 src:000002,havoc:2 +crash
+Saving new input (at run 315): input #63 of size 9; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000063 src:000002,havoc:6 +count
+Saving new input (at run 316): input #64 of size 134; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000064 src:000002,havoc:13 +count +cov
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "d_2" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000035 src:000002,havoc:5 +crash
+Saving new input (at run 326): input #65 of size 73; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000065 src:000002,havoc:27 +count +cov +valid
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "i_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000036 src:000002,havoc:1 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "w_4" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000037 src:000002,havoc:11 +crash
+Saving new input (at run 349): input #66 of size 301; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000066 src:000002,havoc:3 +count
+Saving new input (at run 351): input #67 of size 80; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000067 src:000002,havoc:14 +count +cov +valid
+Found crash: class org.mozilla.javascript.JavaScriptException - [object Function]
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000038 src:000002,havoc:11 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "v_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000039 src:000002,havoc:5 +crash
+Saving new input (at run 368): input #68 of size 16; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000068 src:000002,havoc:8 +count +cov +valid
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "g_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000040 src:000002,havoc:5 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "i_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000041 src:000002,havoc:17 +crash
+Saving new input (at run 381): input #69 of size 44; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000069 src:000002,havoc:2 +count
+Found crash: class org.mozilla.javascript.JavaScriptException - [object Array]
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000042 src:000002,havoc:3 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "d_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000043 src:000002,havoc:3 +crash
+Found crash: class org.mozilla.javascript.JavaScriptException - [object Object]
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000044 src:000002,havoc:5 +crash
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "u_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000045 src:000002,havoc:2 +crash
+Saving new input (at run 393): input #70 of size 420; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000070 src:000002,havoc:6 +count +cov
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "c_1" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000046 src:000002,havoc:14 +crash
+Saving new input (at run 403): input #71 of size 672; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/corpus/id_000071 src:000002,havoc:4 +count +cov
+Found crash: class org.mozilla.javascript.EcmaError - ReferenceError: "q_0" is not defined.
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithString/failures/id_000047 src:000002,havoc:3 +crash

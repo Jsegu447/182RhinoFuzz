@@ -23,7 +23,7 @@ public class JavaScriptCodeGenerator extends Generator<String> {
 
     private static final String[] UNARY_TOKENS = {
             "!", "++", "--", "~",
-            "delete", "new", "typeof"
+            "delete", "new", "typeof", "void"
     };
 
     private static final String[] BINARY_TOKENS = {

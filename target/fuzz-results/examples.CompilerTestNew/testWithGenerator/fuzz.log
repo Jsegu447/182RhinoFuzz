@@ -1,0 +1,774 @@
+Saving new input (at run 1): input #0 of size 15; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000000 random +count +cov
+Saving new input (at run 2): input #1 of size 9; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000001 src:000000,havoc:1 +count +cov +valid
+Saving new input (at run 3): input #2 of size 9325; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000002 src:000000,havoc:2 +count +cov
+Saving new input (at run 5): input #3 of size 5; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000003 src:000000,havoc:4 +count +valid
+Saving new input (at run 6): input #4 of size 52; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000004 src:000000,havoc:15 +count
+Saving new input (at run 7): input #5 of size 5; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000005 src:000000,havoc:10 +count +cov
+Saving new input (at run 8): input #6 of size 14; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000006 src:000000,havoc:1 +count
+Saving new input (at run 10): input #7 of size 18; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000007 src:000000,havoc:1 +count +cov +valid
+Saving new input (at run 11): input #8 of size 9; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000008 src:000000,havoc:9 +count +valid
+Saving new input (at run 12): input #9 of size 72; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000009 src:000000,havoc:3 +count +cov +valid
+Saving new input (at run 13): input #10 of size 36; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000010 src:000000,havoc:1 +count +cov +valid
+Saving new input (at run 16): input #11 of size 47; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000011 src:000000,havoc:23 +count +cov +valid
+Saving new input (at run 17): input #12 of size 74; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000012 src:000000,havoc:13 +count +cov +valid
+Saving new input (at run 19): input #13 of size 9; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000013 src:000000,havoc:2 +count +cov +valid
+Saving new input (at run 22): input #14 of size 53; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000014 src:000000,havoc:17 +count +cov
+Saving new input (at run 25): input #15 of size 33; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000015 src:000000,havoc:5 +count +cov +valid
+Saving new input (at run 26): input #16 of size 22; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000016 src:000000,havoc:6 +count +valid
+Saving new input (at run 27): input #17 of size 61; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000017 src:000000,havoc:1 +count
+Saving new input (at run 28): input #18 of size 19; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000018 src:000000,havoc:4 +count +cov +valid
+Saving new input (at run 29): input #19 of size 14; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000019 src:000000,havoc:32 +count +cov +valid
+Saving new input (at run 30): input #20 of size 163; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000020 src:000000,havoc:10 +count +cov +valid
+Saving new input (at run 31): input #21 of size 18; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000021 src:000000,havoc:18 +count
+Saving new input (at run 32): input #22 of size 14; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000022 src:000000,havoc:1 +count
+Saving new input (at run 35): input #23 of size 47; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000023 src:000000,havoc:2 +count +cov +valid
+Saving new input (at run 36): input #24 of size 872; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000024 src:000000,havoc:3 +count +cov
+Saving new input (at run 37): input #25 of size 2137; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000025 src:000001,havoc:2 +count +cov
+Saving new input (at run 39): input #26 of size 19; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000026 src:000001,havoc:8 +count +cov +valid
+Saving new input (at run 43): input #27 of size 42; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000027 src:000001,havoc:1 +count +cov +valid
+Saving new input (at run 44): input #28 of size 55; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000028 src:000001,havoc:4 +count
+Saving new input (at run 49): input #29 of size 88; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000029 src:000001,havoc:6 +count
+Saving new input (at run 50): input #30 of size 147; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000030 src:000001,havoc:9 +count
+Saving new input (at run 54): input #31 of size 78; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000031 src:000001,havoc:13 +count +cov +valid
+Saving new input (at run 57): input #32 of size 12; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000032 src:000001,havoc:1 +count +valid
+Saving new input (at run 60): input #33 of size 17; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000033 src:000001,havoc:13 +count
+Saving new input (at run 61): input #34 of size 25; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000034 src:000001,havoc:2 +count
+Saving new input (at run 65): input #35 of size 39; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000035 src:000001,havoc:6 +count
+Saving new input (at run 69): input #36 of size 8601; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000036 src:000001,havoc:22 +count +cov
+Saving new input (at run 74): input #37 of size 1012; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000037 src:000001,havoc:17 +count +cov
+Saving new input (at run 77): input #38 of size 162; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000038 src:000001,havoc:9 +count +cov +valid
+Saving new input (at run 80): input #39 of size 55; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000039 src:000001,havoc:9 +count
+Saving new input (at run 84): input #40 of size 62; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000040 src:000001,havoc:4 +count
+Saving new input (at run 87): input #41 of size 3940; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000041 src:000001,havoc:4 +count +cov
+Saving new input (at run 98): input #42 of size 21; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000042 src:000001,havoc:3 +count
+Saving new input (at run 111): input #43 of size 38; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000043 src:000001,havoc:2 +count +cov +valid
+Saving new input (at run 113): input #44 of size 46; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000044 src:000001,havoc:34 +count
+Saving new input (at run 115): input #45 of size 31; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000045 src:000001,havoc:4 +count +valid
+Saving new input (at run 127): input #46 of size 38; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000046 src:000001,havoc:8 +count +cov +valid
+Saving new input (at run 136): input #47 of size 7390; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000047 src:000001,havoc:4 +count
+Saving new input (at run 139): input #48 of size 5772; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000048 src:000001,havoc:5 +count
+Saving new input (at run 145): input #49 of size 6577; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000049 src:000001,havoc:2 +count +cov
+Saving new input (at run 150): input #50 of size 71; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000050 src:000001,havoc:7 +count +valid
+Saving new input (at run 151): input #51 of size 167; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000051 src:000001,havoc:2 +count +cov +valid
+Saving new input (at run 155): input #52 of size 48; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000052 src:000001,havoc:6 +count +cov +valid
+Saving new input (at run 160): input #53 of size 35; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000053 src:000001,havoc:3 +count +valid
+Saving new input (at run 162): input #54 of size 33; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000054 src:000001,havoc:4 +count +cov +valid
+Saving new input (at run 165): input #55 of size 3389; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000055 src:000001,havoc:5 +count +cov
+Saving new input (at run 166): input #56 of size 814; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000056 src:000001,havoc:5 +count
+Saving new input (at run 174): input #57 of size 158; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000057 src:000001,havoc:9 +count
+Saving new input (at run 175): input #58 of size 48; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000058 src:000001,havoc:8 +count
+Saving new input (at run 180): input #59 of size 8404; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000059 src:000002,havoc:9 +count
+Saving new input (at run 182): input #60 of size 8688; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000060 src:000002,havoc:9 +count
+Saving new input (at run 183): input #61 of size 5556; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000061 src:000002,havoc:8 +count
+Saving new input (at run 185): input #62 of size 8216; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000062 src:000002,havoc:19 +count
+Saving new input (at run 186): input #63 of size 9325; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000063 src:000002,havoc:8 +count
+Saving new input (at run 188): input #64 of size 4844; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000064 src:000002,havoc:1 +count
+Saving new input (at run 192): input #65 of size 4844; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000065 src:000002,havoc:10 +count
+Saving new input (at run 194): input #66 of size 5666; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000066 src:000002,havoc:16 +count
+Saving new input (at run 195): input #67 of size 8312; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000067 src:000002,havoc:9 +count
+Saving new input (at run 197): input #68 of size 3528; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000068 src:000002,havoc:24 +count
+Saving new input (at run 198): input #69 of size 9325; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000069 src:000002,havoc:1 +count
+Saving new input (at run 202): input #70 of size 8385; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000070 src:000002,havoc:8 +count
+Saving new input (at run 207): input #71 of size 8175; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000071 src:000002,havoc:4 +count
+Saving new input (at run 214): input #72 of size 5605; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000072 src:000002,havoc:6 +count +cov
+Saving new input (at run 220): input #73 of size 9325; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000073 src:000002,havoc:2 +count
+Saving new input (at run 227): input #74 of size 9293; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000074 src:000002,havoc:15 +count +cov
+Saving new input (at run 245): input #75 of size 6012; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000075 src:000002,havoc:9 +count +cov
+Saving new input (at run 249): input #76 of size 8024; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000076 src:000002,havoc:12 +count
+Saving new input (at run 261): input #77 of size 5765; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000077 src:000002,havoc:11 +count
+Saving new input (at run 263): input #78 of size 2771; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000078 src:000002,havoc:11 +count
+Saving new input (at run 267): input #79 of size 8323; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000079 src:000002,havoc:6 +count +cov
+Saving new input (at run 270): input #80 of size 8395; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000080 src:000002,havoc:16 +count
+Saving new input (at run 278): input #81 of size 10179; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000081 src:000002,havoc:12 +count
+Saving new input (at run 283): input #82 of size 9538; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000082 src:000002,havoc:16 +count
+Saving new input (at run 286): input #83 of size 5175; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000083 src:000002,havoc:28 +count
+Saving new input (at run 289): input #84 of size 4386; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000084 src:000002,havoc:4 +count +cov
+Saving new input (at run 303): input #85 of size 6304; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000085 src:000002,havoc:53 +count +cov
+Saving new input (at run 317): input #86 of size 8328; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000086 src:000002,havoc:23 +count
+Saving new input (at run 321): input #87 of size 10149; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000087 src:000002,havoc:18 +count
+Saving new input (at run 340): input #88 of size 6975; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000088 src:000002,havoc:14 +count +cov
+Saving new input (at run 347): input #89 of size 9994; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000089 src:000002,havoc:23 +count
+Saving new input (at run 348): input #90 of size 3135; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000090 src:000002,havoc:8 +count
+Saving new input (at run 349): input #91 of size 9466; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000091 src:000002,havoc:8 +count
+Saving new input (at run 355): input #92 of size 87; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000092 src:000002,havoc:3 +count +valid
+Saving new input (at run 360): input #93 of size 3046; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000093 src:000002,havoc:6 +count +cov
+Saving new input (at run 362): input #94 of size 45; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000094 src:000003,havoc:1 +valid
+Saving new input (at run 386): input #95 of size 36; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000095 src:000003,havoc:2 +count
+Saving new input (at run 392): input #96 of size 276; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000096 src:000003,havoc:10 +count
+Saving new input (at run 396): input #97 of size 87; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000097 src:000003,havoc:4 +count +cov +valid
+Saving new input (at run 422): input #98 of size 91; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000098 src:000003,havoc:40 +count +cov +valid
+Saving new input (at run 424): input #99 of size 490; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000099 src:000003,havoc:5 +count
+Saving new input (at run 428): input #100 of size 15; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000100 src:000003,havoc:9 +count
+Saving new input (at run 433): input #101 of size 50; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000101 src:000003,havoc:1 +count +cov +valid
+Saving new input (at run 434): input #102 of size 274; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000102 src:000003,havoc:7 +count
+Saving new input (at run 436): input #103 of size 43; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000103 src:000003,havoc:1 +count
+Saving new input (at run 453): input #104 of size 9379; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000104 src:000003,havoc:6 +count
+Saving new input (at run 454): input #105 of size 32; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000105 src:000003,havoc:24 +count
+Saving new input (at run 461): input #106 of size 38; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000106 src:000003,havoc:2 +count +valid
+Saving new input (at run 480): input #107 of size 116; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000107 src:000003,havoc:4 +count
+Saving new input (at run 492): input #108 of size 181; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000108 src:000003,havoc:2 +count +cov +valid
+Saving new input (at run 494): input #109 of size 876; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000109 src:000003,havoc:9 +count
+Saving new input (at run 499): input #110 of size 2322; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000110 src:000003,havoc:12 +count +cov
+Saving new input (at run 509): input #111 of size 37; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000111 src:000003,havoc:8 +count +valid
+Saving new input (at run 524): input #112 of size 41; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000112 src:000003,havoc:24 +count +cov +valid
+Saving new input (at run 539): input #113 of size 64; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000113 src:000003,havoc:6 +valid
+Saving new input (at run 542): input #114 of size 796; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000114 src:000004,havoc:4 +count
+Saving new input (at run 547): input #115 of size 31; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000115 src:000007,havoc:6 +count +valid
+Saving new input (at run 556): input #116 of size 193; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000116 src:000007,havoc:6 +count +cov +valid
+Saving new input (at run 570): input #117 of size 46; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000117 src:000007,havoc:3 +count
+Saving new input (at run 579): input #118 of size 1291; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000118 src:000007,havoc:5 +count
+Saving new input (at run 592): input #119 of size 5588; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000119 src:000007,havoc:36 +count
+Saving new input (at run 600): input #120 of size 16; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000120 src:000007,havoc:14 +count +cov +valid
+Saving new input (at run 602): input #121 of size 42; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000121 src:000007,havoc:1 +valid
+Saving new input (at run 610): input #122 of size 9224; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000122 src:000007,havoc:6 +count
+Saving new input (at run 611): input #123 of size 2742; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000123 src:000007,havoc:1 +count
+Saving new input (at run 621): input #124 of size 7769; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000124 src:000007,havoc:2 +count
+Saving new input (at run 630): input #125 of size 763; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000125 src:000007,havoc:2 +count
+Saving new input (at run 633): input #126 of size 7245; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000126 src:000007,havoc:2 +count
+Saving new input (at run 635): input #127 of size 842; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000127 src:000007,havoc:20 +count
+Saving new input (at run 637): input #128 of size 33; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000128 src:000007,havoc:13 +count +cov +valid
+Saving new input (at run 641): input #129 of size 1571; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000129 src:000007,havoc:9 +count +cov
+Saving new input (at run 646): input #130 of size 8054; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000130 src:000007,havoc:1 +count +cov
+Saving new input (at run 655): input #131 of size 24; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000131 src:000007,havoc:4 +count +cov +valid
+Saving new input (at run 667): input #132 of size 47; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000132 src:000007,havoc:4 +count +cov +valid
+Saving new input (at run 671): input #133 of size 7623; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000133 src:000007,havoc:2 +count +cov
+Saving new input (at run 704): input #134 of size 4592; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000134 src:000007,havoc:4 +count
+Saving new input (at run 705): input #135 of size 53; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000135 src:000007,havoc:6 +count +cov +valid
+Saving new input (at run 706): input #136 of size 60; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000136 src:000007,havoc:34 +count +valid
+Saving new input (at run 709): input #137 of size 48; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000137 src:000007,havoc:6 +valid
+Saving new input (at run 719): input #138 of size 46; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000138 src:000007,havoc:1 +count +valid
+Saving new input (at run 740): input #139 of size 9179; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000139 src:000008,havoc:5 +count
+Saving new input (at run 751): input #140 of size 51; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000140 src:000008,havoc:9 +count
+Saving new input (at run 756): input #141 of size 61; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000141 src:000008,havoc:34 +count +cov +valid
+Saving new input (at run 758): input #142 of size 44; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000142 src:000008,havoc:8 +count +cov +valid
+Saving new input (at run 763): input #143 of size 33; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000143 src:000008,havoc:8 +count +cov +valid
+Saving new input (at run 770): input #144 of size 43; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000144 src:000008,havoc:2 +valid
+Saving new input (at run 788): input #145 of size 37; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000145 src:000008,havoc:4 +valid
+Saving new input (at run 808): input #146 of size 33; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000146 src:000008,havoc:5 +count +cov +valid
+Saving new input (at run 827): input #147 of size 38; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000147 src:000008,havoc:9 +count +cov +valid
+Saving new input (at run 830): input #148 of size 160; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000148 src:000008,havoc:1 +count +cov
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000000 src:000008,havoc:13 +crash
+Saving new input (at run 857): input #149 of size 95; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000149 src:000008,havoc:8 +count
+Saving new input (at run 862): input #150 of size 4379; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000150 src:000008,havoc:12 +count
+Saving new input (at run 863): input #151 of size 23; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000151 src:000008,havoc:4 +valid
+Saving new input (at run 870): input #152 of size 33; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000152 src:000008,havoc:3 +valid
+Saving new input (at run 909): input #153 of size 39; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000153 src:000008,havoc:18 +valid
+Saving new input (at run 916): input #154 of size 69; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000154 src:000008,havoc:26 +count +cov +valid
+Saving new input (at run 927): input #155 of size 39; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000155 src:000008,havoc:3 +count
+Saving new input (at run 941): input #156 of size 91; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000156 src:000008,havoc:2 +count
+Saving new input (at run 945): input #157 of size 263; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000157 src:000008,havoc:12 +count +cov +valid
+Saving new input (at run 951): input #158 of size 172; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000158 src:000008,havoc:8 +count
+Saving new input (at run 986): input #159 of size 178; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000159 src:000009,havoc:2 +count +cov +valid
+Saving new input (at run 987): input #160 of size 99; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000160 src:000009,havoc:5 +count +cov +valid
+Saving new input (at run 1021): input #161 of size 9908; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000161 src:000009,havoc:5 +count
+Saving new input (at run 1027): input #162 of size 10061; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000162 src:000009,havoc:4 +count
+Saving new input (at run 1033): input #163 of size 239; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000163 src:000009,havoc:5 +count +cov +valid
+Saving new input (at run 1047): input #164 of size 82; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000164 src:000009,havoc:5 +count +cov +valid
+Saving new input (at run 1061): input #165 of size 118; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000165 src:000009,havoc:5 +count +cov +valid
+Saving new input (at run 1102): input #166 of size 59; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000166 src:000009,havoc:2 +count
+Saving new input (at run 1104): input #167 of size 8714; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000167 src:000009,havoc:5 +count
+Saving new input (at run 1109): input #168 of size 9413; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000168 src:000009,havoc:11 +count +cov
+Saving new input (at run 1112): input #169 of size 5908; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000169 src:000009,havoc:17 +count
+Saving new input (at run 1117): input #170 of size 132; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000170 src:000009,havoc:4 +count
+Saving new input (at run 1121): input #171 of size 3448; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000171 src:000009,havoc:12 +count +cov
+Saving new input (at run 1146): input #172 of size 197; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000172 src:000009,havoc:5 +count
+Saving new input (at run 1198): input #173 of size 5937; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000173 src:000009,havoc:15 +count
+Saving new input (at run 1207): input #174 of size 5988; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000174 src:000009,havoc:3 +count
+Saving new input (at run 1208): input #175 of size 149; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000175 src:000009,havoc:11 +count
+Saving new input (at run 1224): input #176 of size 101; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000176 src:000009,havoc:6 +count +valid
+Saving new input (at run 1249): input #177 of size 842; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000177 src:000010,havoc:16 +count +valid
+Saving new input (at run 1285): input #178 of size 6740; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000178 src:000010,havoc:1 +count
+Saving new input (at run 1332): input #179 of size 55; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000179 src:000010,havoc:5 +count +valid
+Saving new input (at run 1346): input #180 of size 122; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000180 src:000010,havoc:15 +count
+Saving new input (at run 1348): input #181 of size 6711; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000181 src:000010,havoc:6 +count
+Saving new input (at run 1382): input #182 of size 69; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000182 src:000010,havoc:3 +count
+Saving new input (at run 1513): input #183 of size 71; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000183 src:000011,havoc:12 +valid
+Saving new input (at run 1538): input #184 of size 2464; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000184 src:000011,havoc:9 +count
+Saving new input (at run 1551): input #185 of size 4154; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000185 src:000011,havoc:7 +count
+Saving new input (at run 1557): input #186 of size 47; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000186 src:000011,havoc:4 +count
+Saving new input (at run 1558): input #187 of size 104; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000187 src:000011,havoc:5 +count +cov +valid
+Saving new input (at run 1565): input #188 of size 282; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000188 src:000011,havoc:7 +count
+Saving new input (at run 1581): input #189 of size 63; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000189 src:000011,havoc:26 +count +cov +valid
+Saving new input (at run 1582): input #190 of size 136; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000190 src:000011,havoc:5 +count
+Saving new input (at run 1583): input #191 of size 95; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000191 src:000011,havoc:7 +count +cov +valid
+Saving new input (at run 1614): input #192 of size 74; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000192 src:000012,havoc:2 +count +valid
+Saving new input (at run 1615): input #193 of size 75; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000193 src:000012,havoc:6 +count
+Saving new input (at run 1621): input #194 of size 6257; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000194 src:000012,havoc:7 +count
+Saving new input (at run 1627): input #195 of size 1886; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000195 src:000012,havoc:5 +count +cov
+Saving new input (at run 1638): input #196 of size 351; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000196 src:000012,havoc:14 +count +valid
+Saving new input (at run 1644): input #197 of size 232; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000197 src:000012,havoc:2 +count +cov +valid
+Saving new input (at run 1651): input #198 of size 84; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000198 src:000012,havoc:17 +count
+Saving new input (at run 1672): input #199 of size 674; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000199 src:000012,havoc:1 +count
+Saving new input (at run 1673): input #200 of size 736; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000200 src:000012,havoc:5 +count +cov +valid
+Saving new input (at run 1690): input #201 of size 369; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000201 src:000012,havoc:18 +count +valid
+Saving new input (at run 1698): input #202 of size 9279; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000202 src:000012,havoc:6 +count
+Saving new input (at run 1703): input #203 of size 226; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000203 src:000012,havoc:5 +count
+Saving new input (at run 1707): input #204 of size 74; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000204 src:000012,havoc:7 +count +cov +valid
+Saving new input (at run 1708): input #205 of size 330; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000205 src:000012,havoc:5 +count
+Saving new input (at run 1715): input #206 of size 9694; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000206 src:000012,havoc:6 +count
+Saving new input (at run 1748): input #207 of size 110; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000207 src:000012,havoc:30 +count
+Saving new input (at run 1798): input #208 of size 9926; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000208 src:000013,havoc:1 +count
+Saving new input (at run 1892): input #209 of size 238; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000209 src:000013,havoc:7 +count
+Saving new input (at run 1894): input #210 of size 100; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000210 src:000013,havoc:7 +count
+Saving new input (at run 1976): input #211 of size 8561; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000211 src:000013,havoc:8 +count
+Saving new input (at run 2007): input #212 of size 2864; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000212 src:000015,havoc:1 +count
+Saving new input (at run 2045): input #213 of size 74; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000213 src:000015,havoc:4 +count
+Saving new input (at run 2130): input #214 of size 69; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000214 src:000015,havoc:3 +valid
+Saving new input (at run 2159): input #215 of size 56; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000215 src:000015,havoc:1 +count +cov +valid
+Saving new input (at run 2192): input #216 of size 38; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000216 src:000016,havoc:21 +count
+Saving new input (at run 2222): input #217 of size 302; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000217 src:000016,havoc:3 +count
+Saving new input (at run 2233): input #218 of size 8610; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000218 src:000016,havoc:8 +count
+Saving new input (at run 2273): input #219 of size 9200; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000219 src:000016,havoc:9 +count
+Saving new input (at run 2376): input #220 of size 9959; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000220 src:000018,havoc:4 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000001 src:000018,havoc:4 +crash
+Saving new input (at run 2440): input #221 of size 161; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000221 src:000018,havoc:14 +count
+Saving new input (at run 2554): input #222 of size 6039; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000222 src:000019,havoc:2 +count
+Saving new input (at run 2579): input #223 of size 43; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000223 src:000019,havoc:1 +valid
+Saving new input (at run 2594): input #224 of size 53; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000224 src:000019,havoc:1 +valid
+Saving new input (at run 2725): input #225 of size 488; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000225 src:000019,havoc:3 +count +valid
+Saving new input (at run 2740): input #226 of size 470; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000226 src:000020,havoc:6 +count
+Saving new input (at run 2768): input #227 of size 163; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000227 src:000020,havoc:2 +count
+Saving new input (at run 2814): input #228 of size 220; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000228 src:000020,havoc:2 +count
+Saving new input (at run 2879): input #229 of size 214; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000229 src:000020,havoc:2 +count
+Saving new input (at run 2884): input #230 of size 350; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000230 src:000020,havoc:3 +count +cov +valid
+Saving new input (at run 2934): input #231 of size 82; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000231 src:000023,havoc:2 +count
+Saving new input (at run 2983): input #232 of size 306; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000232 src:000023,havoc:14 +count
+Saving new input (at run 3013): input #233 of size 7057; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000233 src:000023,havoc:5 +count
+Saving new input (at run 3051): input #234 of size 166; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000234 src:000023,havoc:3 +count
+Saving new input (at run 3075): input #235 of size 352; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000235 src:000023,havoc:5 +count
+Saving new input (at run 3399): input #236 of size 75; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000236 src:000026,havoc:2 +count
+Saving new input (at run 3415): input #237 of size 10090; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000237 src:000026,havoc:6 +count
+Saving new input (at run 3491): input #238 of size 38; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000238 src:000027,havoc:3 +valid
+Saving new input (at run 3581): input #239 of size 2020; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000239 src:000027,havoc:14 +count
+Saving new input (at run 3607): input #240 of size 124; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000240 src:000027,havoc:1 +count
+Saving new input (at run 3706): input #241 of size 285; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000241 src:000031,havoc:6 +count
+Saving new input (at run 3745): input #242 of size 4087; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000242 src:000031,havoc:2 +count
+Saving new input (at run 3774): input #243 of size 68; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000243 src:000031,havoc:1 +count +cov +valid
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000002 src:000032,havoc:16 +crash
+Saving new input (at run 3896): input #244 of size 9733; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000244 src:000032,havoc:16 +count
+Saving new input (at run 3942): input #245 of size 134; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000245 src:000035,havoc:1 +count
+Saving new input (at run 3958): input #246 of size 662; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000246 src:000038,havoc:15 +count
+Saving new input (at run 4002): input #247 of size 9976; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000247 src:000038,havoc:14 +count
+Saving new input (at run 4034): input #248 of size 197; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000248 src:000038,havoc:1 +count
+Saving new input (at run 4040): input #249 of size 232; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000249 src:000038,havoc:8 +count
+Saving new input (at run 4133): input #250 of size 38; reason = +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000250 src:000043,havoc:2 +valid
+Saving new input (at run 4179): input #251 of size 61; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000251 src:000043,havoc:5 +count +cov +valid
+Saving new input (at run 4186): input #252 of size 711; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000252 src:000043,havoc:1 +count
+Saving new input (at run 4218): input #253 of size 7159; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000253 src:000043,havoc:3 +count
+Saving new input (at run 4287): input #254 of size 293; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000254 src:000045,havoc:6 +count +valid
+Found crash: class java.lang.NullPointerException - Cannot read the array length because "properties" is null
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000003 src:000045,havoc:8 +crash
+Saving new input (at run 4361): input #255 of size 191; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000255 src:000045,havoc:2 +count
+Saving new input (at run 4670): input #256 of size 708; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000256 src:000050,havoc:2 +count +cov +valid
+Saving new input (at run 4740): input #257 of size 1260; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000257 src:000051,havoc:3 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000004 src:000051,havoc:2 +crash
+Saving new input (at run 4798): input #258 of size 1621; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000258 src:000051,havoc:7 +count
+Saving new input (at run 4807): input #259 of size 633; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000259 src:000051,havoc:3 +count
+Saving new input (at run 4848): input #260 of size 205; reason = +count +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000260 src:000051,havoc:1 +count +valid
+Saving new input (at run 4866): input #261 of size 86; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000261 src:000051,havoc:6 +count
+Saving new input (at run 4873): input #262 of size 108; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000262 src:000051,havoc:27 +count
+Saving new input (at run 4877): input #263 of size 5564; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000263 src:000051,havoc:9 +count
+Saving new input (at run 4947): input #264 of size 56; reason = +count +cov
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000264 src:000052,havoc:14 +count +cov
+Saving new input (at run 5004): input #265 of size 133; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000265 src:000052,havoc:1 +count
+Saving new input (at run 5018): input #266 of size 9979; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000266 src:000052,havoc:36 +count
+Saving new input (at run 5071): input #267 of size 119; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000267 src:000052,havoc:15 +count
+Saving new input (at run 5090): input #268 of size 305; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000268 src:000052,havoc:3 +count
+Saving new input (at run 5131): input #269 of size 177; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000269 src:000053,havoc:3 +count
+Saving new input (at run 5179): input #270 of size 7877; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000270 src:000053,havoc:2 +count
+Saving new input (at run 5189): input #271 of size 75; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000271 src:000053,havoc:2 +count
+Saving new input (at run 5197): input #272 of size 62; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000272 src:000053,havoc:11 +count
+Saving new input (at run 5207): input #273 of size 800; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000273 src:000053,havoc:1 +count
+Saving new input (at run 5385): input #274 of size 166; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000274 src:000054,havoc:8 +count
+Saving new input (at run 5398): input #275 of size 392; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000275 src:000054,havoc:2 +count
+Saving new input (at run 5412): input #276 of size 179; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000276 src:000054,havoc:1 +count +cov +valid
+Saving new input (at run 5429): input #277 of size 1369; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000277 src:000054,havoc:2 +count
+Saving new input (at run 5611): input #278 of size 3150; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000278 src:000079,havoc:12 +count
+Saving new input (at run 5645): input #279 of size 532; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000279 src:000084,havoc:3 +count
+Saving new input (at run 5709): input #280 of size 352; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000280 src:000092,havoc:29 +count
+Saving new input (at run 5762): input #281 of size 3203; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000281 src:000092,havoc:2 +count
+Saving new input (at run 5799): input #282 of size 307; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000282 src:000092,havoc:6 +count
+Saving new input (at run 5832): input #283 of size 540; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000283 src:000092,havoc:1 +count
+Saving new input (at run 5899): input #284 of size 3494; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000284 src:000092,havoc:11 +count
+Saving new input (at run 5914): input #285 of size 2186; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000285 src:000092,havoc:1 +count +cov +valid
+Saving new input (at run 6057): input #286 of size 7809; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000286 src:000094,havoc:7 +count
+Saving new input (at run 6212): input #287 of size 127; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000287 src:000094,havoc:2 +count +cov +valid
+Saving new input (at run 6316): input #288 of size 268; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000288 src:000094,havoc:5 +count
+Saving new input (at run 6340): input #289 of size 43; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000289 src:000097,havoc:13 +count +cov +valid
+Saving new input (at run 6552): input #290 of size 5830; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000290 src:000098,havoc:5 +count
+Saving new input (at run 6650): input #291 of size 231; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000291 src:000098,havoc:11 +count
+Saving new input (at run 6750): input #292 of size 1716; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000292 src:000098,havoc:5 +count
+Saving new input (at run 7015): input #293 of size 571; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000293 src:000101,havoc:3 +count
+Saving new input (at run 7142): input #294 of size 43; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000294 src:000103,havoc:2 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000005 src:000108,havoc:6 +crash
+Saving new input (at run 7498): input #295 of size 722; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000295 src:000108,havoc:22 +count +cov +valid
+Saving new input (at run 7546): input #296 of size 98; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000296 src:000108,havoc:13 +count
+Saving new input (at run 7634): input #297 of size 189; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000297 src:000108,havoc:5 +count
+Saving new input (at run 7698): input #298 of size 2931; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000298 src:000108,havoc:21 +count
+Saving new input (at run 7770): input #299 of size 1917; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000299 src:000110,havoc:11 +count
+Saving new input (at run 7814): input #300 of size 466; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000300 src:000111,havoc:3 +count
+Saving new input (at run 7880): input #301 of size 482; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000301 src:000111,havoc:14 +count
+Saving new input (at run 7916): input #302 of size 631; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000302 src:000111,havoc:8 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000006 src:000112,havoc:5 +crash
+Saving new input (at run 8110): input #303 of size 51; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000303 src:000112,havoc:3 +count
+Saving new input (at run 8155): input #304 of size 25; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000304 src:000112,havoc:6 +count +cov +valid
+Saving new input (at run 8360): input #305 of size 5518; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000305 src:000113,havoc:5 +count
+Saving new input (at run 8413): input #306 of size 777; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000306 src:000114,havoc:2 +count
+Saving new input (at run 8465): input #307 of size 36; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000307 src:000115,havoc:9 +count
+Saving new input (at run 8494): input #308 of size 73; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000308 src:000115,havoc:6 +count +cov +valid
+Saving new input (at run 8579): input #309 of size 3973; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000309 src:000116,havoc:5 +count
+Saving new input (at run 8607): input #310 of size 207; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000310 src:000116,havoc:3 +count
+Saving new input (at run 8682): input #311 of size 6539; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000311 src:000116,havoc:13 +count
+Saving new input (at run 8735): input #312 of size 537; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000312 src:000116,havoc:7 +count
+Saving new input (at run 8772): input #313 of size 1363; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000313 src:000116,havoc:2 +count
+Saving new input (at run 8808): input #314 of size 557; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000314 src:000116,havoc:15 +count
+Saving new input (at run 8836): input #315 of size 143; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000315 src:000116,havoc:2 +count
+Saving new input (at run 8850): input #316 of size 4834; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000316 src:000116,havoc:4 +count
+Saving new input (at run 8883): input #317 of size 561; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000317 src:000116,havoc:8 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000007 src:000121,havoc:2 +crash
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000008 src:000121,havoc:8 +crash
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000009 src:000123,havoc:3 +crash
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000010 src:000127,havoc:11 +crash
+Saving new input (at run 9488): input #318 of size 8884; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000318 src:000128,havoc:6 +count
+Saving new input (at run 9532): input #319 of size 635; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000319 src:000128,havoc:12 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000011 src:000128,havoc:2 +crash
+Saving new input (at run 9672): input #320 of size 5231; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000320 src:000128,havoc:25 +count
+Saving new input (at run 9845): input #321 of size 663; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000321 src:000131,havoc:1 +count
+Saving new input (at run 9862): input #322 of size 443; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000322 src:000131,havoc:18 +count
+Saving new input (at run 9935): input #323 of size 29; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000323 src:000132,havoc:5 +count +cov +valid
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000012 src:000135,havoc:6 +crash
+Saving new input (at run 10147): input #324 of size 1103; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000324 src:000135,havoc:9 +count
+Saving new input (at run 10190): input #325 of size 178; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000325 src:000135,havoc:16 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000013 src:000136,havoc:1 +crash
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000014 src:000136,havoc:5 +crash
+Saving new input (at run 10504): input #326 of size 181; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000326 src:000136,havoc:25 +count
+Saving new input (at run 10519): input #327 of size 7615; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000327 src:000136,havoc:3 +count
+Saving new input (at run 10666): input #328 of size 62; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000328 src:000137,havoc:4 +count +cov +valid
+Saving new input (at run 10928): input #329 of size 364; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000329 src:000138,havoc:2 +count
+Saving new input (at run 11040): input #330 of size 61; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000330 src:000141,havoc:6 +count
+Saving new input (at run 11046): input #331 of size 136; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000331 src:000141,havoc:4 +count
+Saving new input (at run 11580): input #332 of size 1834; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000332 src:000144,havoc:12 +count
+Saving new input (at run 11937): input #333 of size 9142; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000333 src:000145,havoc:4 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000015 src:000145,havoc:10 +crash
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000016 src:000145,havoc:9 +crash
+Saving new input (at run 12261): input #334 of size 4437; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000334 src:000146,havoc:17 +count
+Saving new input (at run 12303): input #335 of size 710; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000335 src:000146,havoc:8 +count
+Saving new input (at run 12419): input #336 of size 699; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000336 src:000147,havoc:7 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000017 src:000148,havoc:3 +crash
+Saving new input (at run 12864): input #337 of size 8273; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000337 src:000151,havoc:10 +count
+Saving new input (at run 13091): input #338 of size 108; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000338 src:000152,havoc:1 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000018 src:000152,havoc:1 +crash
+Saving new input (at run 13623): input #339 of size 1043; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000339 src:000154,havoc:7 +count
+Saving new input (at run 13694): input #340 of size 9387; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000340 src:000154,havoc:4 +count
+Saving new input (at run 13799): input #341 of size 933; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000341 src:000157,havoc:5 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000019 src:000157,havoc:22 +crash
+Saving new input (at run 13836): input #342 of size 410; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000342 src:000157,havoc:11 +count
+Saving new input (at run 13843): input #343 of size 1096; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000343 src:000157,havoc:8 +count
+Saving new input (at run 13851): input #344 of size 277; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000344 src:000157,havoc:7 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000020 src:000157,havoc:3 +crash
+Saving new input (at run 14022): input #345 of size 7788; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000345 src:000157,havoc:5 +count
+Saving new input (at run 14153): input #346 of size 208; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000346 src:000159,havoc:3 +count
+Saving new input (at run 14199): input #347 of size 8247; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000347 src:000159,havoc:4 +count
+Saving new input (at run 14424): input #348 of size 1128; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000348 src:000160,havoc:1 +count
+Saving new input (at run 14433): input #349 of size 8206; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000349 src:000160,havoc:7 +count
+Saving new input (at run 14555): input #350 of size 1013; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000350 src:000160,havoc:4 +count +cov +valid
+Saving new input (at run 14569): input #351 of size 515; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000351 src:000163,havoc:3 +count
+Saving new input (at run 14614): input #352 of size 214; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000352 src:000163,havoc:15 +count
+Saving new input (at run 14747): input #353 of size 9753; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000353 src:000163,havoc:5 +count
+Saving new input (at run 14755): input #354 of size 3049; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000354 src:000163,havoc:2 +count
+Saving new input (at run 14896): input #355 of size 722; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000355 src:000164,havoc:2 +count
+Saving new input (at run 14978): input #356 of size 191; reason = +count +cov +valid
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000356 src:000164,havoc:5 +count +cov +valid
+Saving new input (at run 15001): input #357 of size 6097; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000357 src:000164,havoc:3 +count
+Saving new input (at run 15374): input #358 of size 7253; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000358 src:000174,havoc:33 +count
+Saving new input (at run 15446): input #359 of size 597; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000359 src:000176,havoc:5 +count
+Saving new input (at run 15527): input #360 of size 697; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000360 src:000176,havoc:7 +count
+Found crash: class java.lang.IllegalStateException - FAILED ASSERTION: unexpected token: LP
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/failures/id_000021 src:000176,havoc:6 +crash
+Saving new input (at run 15681): input #361 of size 3032; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000361 src:000177,havoc:7 +count
+Saving new input (at run 15696): input #362 of size 4835; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000362 src:000177,havoc:2 +count
+Saving new input (at run 15704): input #363 of size 842; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000363 src:000177,havoc:1 +count
+Saving new input (at run 15721): input #364 of size 1572; reason = +count
+Saved - /Users/jairadhakrishnan/Documents/UCR Classes/Fall 2022/CS182/182RhinoFuzz/target/fuzz-results/examples.CompilerTestNew/testWithGenerator/corpus/id_000364 src:000177,havoc:2 +count
